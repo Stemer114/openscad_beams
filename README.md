@@ -44,7 +44,7 @@ Usage
 Author
 -----
 
-(c) 2016 by Stemer114 (stemer114@gmail.com)
+Stemer114 (stemer114@gmail.com)
 
 License
 -----
