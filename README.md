@@ -37,8 +37,9 @@ Usage
 - include beams library in your openscad file
 - define your frame params in an array
 - call library module beam multi using your frame array as param
+- see template.scad in folder lib for an example
+- see any of the more complex examples in folder lib_with_examples
 
-the usage is quite simple, just start with one of the examplexx.scad files
 
 Author
 -----
@@ -48,6 +49,32 @@ Author
 License
 -----
 
-Released under the GNU GENERAL PUBLIC LICENSE, see file LICENSE
+Copyright (C) 2016 Stemer114 (stemer114@merunka.de)
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+
+Credits: 
+-----
+
+ for some of the examples
+ MCAD Library - Polyholes Copyright 2011 Nophead (of RepRap fame)
+ It is licensed under the terms of Creative Commons Attribution 3.0 Unported.
+ https://github.com/SolidCode/MCAD/blob/master/polyholes.scad
+
+ BeamsVersion, libEcho and code structure inspired by 
+ OpenSCAD Parts Library by randyy is licensed under the GNU - LGPL license. 
+ http://www.thingiverse.com/thing:6021
 
 
