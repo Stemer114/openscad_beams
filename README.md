@@ -9,7 +9,7 @@ An openscad library to create complex objects easily
 Motivation
 -----
 
-Ship or airplane hulls and models thereof are often constructed from frames 
+Ship or airplane hulls or models thereof are often constructed from frames 
 which define beams and the external shape of the hull.
 
 This technique is also useful for construction in openscad, particularly
@@ -28,7 +28,7 @@ The library module constructs the hull shape from the list.
 If you want to change something, you can easily do so by adjusting the parameters
 in the list, whithout any further code changes.
 
-I have found this technique quite useful for both simply and complex objects.
+I have found this technique quite useful for both simple and complex objects.
 
 
 Usage
