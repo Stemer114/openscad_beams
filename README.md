@@ -40,6 +40,15 @@ Usage
 - see template.scad in folder lib for an example
 - see any of the more complex examples in folder lib_with_examples
   (e.g. example_complex02, which demonstrates how simply a complex shape can be defined using the library and mirroring)
+- for debugging you can use the named parameter no_hull=true when calling beam_multi for only showing the frames (without the hull)
+
+
+Development
+-----
+
+planned:
+- optionally use alternating colors for the hull segements for easier visual debugging in openscad
+- support non rectangular frames (circles, trapezoid)
 
 
 Author
