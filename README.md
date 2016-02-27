@@ -36,9 +36,10 @@ Usage
 
 - include beams library in your openscad file
 - define your frame params in an array
-- call library module beam multi using your frame array as param
+- call library module beam_multi using your frame array as param
 - see template.scad in folder lib for an example
 - see any of the more complex examples in folder lib_with_examples
+  (e.g. example_complex02, which demonstrates how simply a complex shape can be defined using the library and mirroring)
 
 
 Author
